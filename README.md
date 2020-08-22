@@ -7,7 +7,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 
-
+# This repo was meant only for demo purposes
+## Find the original template here : https://github.com/adityaketkar/circle-packing-personal-homepage
 
 
 <!-- PROJECT LOGO -->
